@@ -1,3 +1,6 @@
+/*
+programa ejemplo de uso de memoria dinamica 
+*/
 #include <stdio.h>
 #include <stdlib.h> // Necesario para las funciones de asignación de memoria dinámica: malloc y free
 
